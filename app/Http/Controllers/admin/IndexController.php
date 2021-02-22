@@ -24,7 +24,7 @@ class IndexController extends Controller
 ////        Redis::set('ceshi_name',json_encode($arr,JSON_UNESCAPED_UNICODE));
 //        var_dump(Redis::get('ceshi_name'));
 
-        var_dump(1);
+        var_dump(111);
 
     }
 
